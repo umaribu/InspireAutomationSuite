@@ -1,0 +1,1 @@
+pytest -v -m "regression" src/TestCases/test_JournalPost.py --html=src\Reports\report.html --browser chrome
